@@ -6,7 +6,7 @@
     <members>
         <member name="M:MimicAPI.V1.Controllers.PalavrasController.FindAll(MimicAPI.Helpers.PalavraUrlQuery)">
             <summary>
-            ObterPalavras: Recupera todas as palavras que possuem na api
+            Recupera todas as palavras existentes
             </summary>
             <param name="palavraUrlQuery">Filtros de pesquisa</param>
             <returns>Lista de palavras</returns>
@@ -50,7 +50,7 @@
         </member>
         <member name="M:MimicAPI.V2.Controllers.PalavrasController.FindAll">
             <summary>
-            ObterPalavras: Recupera todas as palavras que possuem na api
+            Recupera todas as palavras que existentes
             </summary>
             <param name="palavraUrlQuery">Filtros de pesquisa</param>
             <returns>Lista de palavras</returns>
